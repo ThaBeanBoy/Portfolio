@@ -1,0 +1,11 @@
+section:not(:first-of-type) {
+  @apply py-12;
+}
+
+#project-details {
+  @apply flex flex-col;
+}
+
+#project-details a {
+  @apply py-6;
+}
